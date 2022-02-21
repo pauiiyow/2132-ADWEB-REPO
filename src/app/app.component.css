@@ -1,0 +1,6 @@
+.nav {
+    background-color: whitesmoke;
+}
+.nav-link:active, .nav-link:link, .nav-link:hover  {
+    color: black;
+}

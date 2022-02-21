@@ -1,0 +1,21 @@
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: .5in;
+    height: fit-content;
+    width: 40%;
+    padding-top: .25in;
+    padding-bottom: .25in;
+    background-color: #e4e1d8;
+}
+ li {
+    font-size: 16pt;
+    font-family: Poppins;
+    list-style-type: circle;
+     
+ }
+
+ h1 {
+    font-size: 50pt;
+    margin-left: 1in;
+ }

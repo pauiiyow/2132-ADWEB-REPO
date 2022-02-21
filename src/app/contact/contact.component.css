@@ -1,0 +1,19 @@
+.content {
+    width: 20%;
+    background-color: #e4e1d8;
+    margin-left: auto;
+    margin-right: auto;
+    padding: .3in;
+    margin-top: .5in;
+}
+
+h1 {
+    font-size: 50pt;
+    font-family: Poppins;
+    margin-left: 1in;
+}
+
+h6, p {
+    font-family: Poppins;
+    font-size: 14pt;
+}
