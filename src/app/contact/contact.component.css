@@ -1,19 +1,11 @@
-.content {
-    width: 20%;
-    background-color: #e4e1d8;
-    margin-left: auto;
-    margin-right: auto;
-    padding: .3in;
-    margin-top: .5in;
+.body {
+    padding-top: 1in;
+    background-color: whitesmoke;
+    height: 9.6in;
 }
-
-h1 {
+.title{
+    font-family: Poppins;
+    font-weight: bold;
     font-size: 50pt;
-    font-family: Poppins;
-    margin-left: 1in;
-}
-
-h6, p {
-    font-family: Poppins;
-    font-size: 14pt;
+    margin-left: 2in;
 }

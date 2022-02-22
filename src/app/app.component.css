@@ -1,6 +1,17 @@
-.nav {
-    background-color: whitesmoke;
+.title {
+    font-size: 30pt;
+    font-family: Poppins;
+    font-weight: bold;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 1in;
 }
-.nav-link:active, .nav-link:link, .nav-link:hover  {
+
+a {
+    font-family: Poppins;
     color: black;
+}
+
+ul {
+    margin-right: 1in;
 }
